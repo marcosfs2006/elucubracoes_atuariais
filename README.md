@@ -10,3 +10,8 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 * Crítica da Base de Dados
 * Tábuas de Mortalidade (suavisação e agravamento)
 * Visão Geral do Pacote [`lifecontingencies`](https://cran.r-project.org/web/packages/lifecontingencies/index.html)
+
+## **Outros Materiais**
+* [JuliaActuary](https://juliaactuary.org/)
+* [Mauricio Rodriguez Abreu](https://rpubs.com/mrabreu22/)
+
