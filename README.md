@@ -17,13 +17,14 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 [Análise de Fluxo Atuarial]( https://marcosfs2006.shinyapps.io/fluxo_atuarial/)
 
 ## **Pacotes do R de Interesse**
-* [lifecontingencies]()
+* [lifecontingencies](https://cran.r-project.org/web/packages/lifecontingencies/index.html)
 * [MortalityTables](https://cran.r-project.org/web/packages/MortalityTables/)
 * [MortalityLaws](https://cran.r-project.org/web/packages/MortalityLaws/index.html)
 * [demography](https://cran.r-project.org/web/packages/demography/index.html)
 * 
 
 ## **Outros Materiais**
+* [Simulador SADEPREV](http://sadeprevonline.ufrn.br:3838/sadeprev/)
 * [JuliaActuary](https://juliaactuary.org/)
 * [Mauricio Rodriguez Abreu](https://rpubs.com/mrabreu22/)
 
