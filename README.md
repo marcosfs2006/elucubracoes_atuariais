@@ -1,6 +1,6 @@
 # Elucubrações Atuariais
 
-Repositório para armazenar dados e notebooks/_scripts_ elaobrados em R para a execução de cálculos atuariais e coisas relacionadas.
+Repositório para armazenar dados e notebooks elaborados em R para a execução de cálculos atuariais e coisas relacionadas.
 
 À medida que os notebooks forem sendo disponibilizados serão aqui disponibilizados.
 
