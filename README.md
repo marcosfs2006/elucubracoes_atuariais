@@ -9,7 +9,19 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 * Resumo Estatístico do Universo de Beneficiários
 * Crítica da Base de Dados
 * Tábuas de Mortalidade (suavisação e agravamento)
-* Visão Geral do Pacote [`lifecontingencies`](https://cran.r-project.org/web/packages/lifecontingencies/index.html)
+* Funçoes Biométricas
+* Visão Geral do Pacote `lifecontingencies`
+
+## **Shiny Apps**
+
+[Análise de Fluxo Atuarial]( https://marcosfs2006.shinyapps.io/fluxo_atuarial/)
+
+## **Pacotes do R de Interesse**
+* [lifecontingencies]()
+* [MortalityTables](https://cran.r-project.org/web/packages/MortalityTables/)
+* [MortalityLaws](https://cran.r-project.org/web/packages/MortalityLaws/index.html)
+* [demography](https://cran.r-project.org/web/packages/demography/index.html)
+* 
 
 ## **Outros Materiais**
 * [JuliaActuary](https://juliaactuary.org/)
