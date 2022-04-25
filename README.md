@@ -16,6 +16,10 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 
 * [Análise de Fluxo Atuarial]( https://marcosfs2006.shinyapps.io/fluxo_atuarial/)
 
+<br>
+
+# **Outros Materiais**
+
 ## **Pacotes do R de Interesse**
 * [lifecontingencies](https://cran.r-project.org/web/packages/lifecontingencies/index.html)
 * [MortalityTables](https://cran.r-project.org/web/packages/MortalityTables/)
