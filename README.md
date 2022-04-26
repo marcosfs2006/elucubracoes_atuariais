@@ -33,6 +33,7 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 * [Profa. Cristiane Corrêa - UFRN](https://www.youtube.com/channel/UCaRRm8ss8mt79teMKRUgJeg/featured)
 * [Educação Atuarial - Prof. Luis Carlos Santos Júnior](https://www.youtube.com/c/Educa%C3%A7%C3%A3oAtuarial/videos)
 * [Arte Atuarial](https://www.youtube.com/c/ArteAtuarial/featured)
+* [Portal Halley de Educação Atuarial](https://atuaria.github.io/portalhalley/index.html)
 
 <!--
 * [Liga de Ciências Atuariais](https://www.youtube.com/channel/UCHyg2Cesm4wpCDbZP9S3wlQ)
