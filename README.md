@@ -8,7 +8,7 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 * [Métodos de Financiamento Atuarial](https://colab.research.google.com/drive/1WZWnvOeVF6TusKDf9SiozeUgBfIxzpi2?usp=sharing)
 * Resumo Estatístico do Universo de Beneficiários
 * Crítica da Base de Dados
-* Tábuas de Mortalidade (suavisação e agravamento)
+* Tábuas de Mortalidade (suavização e agravamento)
 * Funçoes Biométricas
 * Visão Geral do Pacote `lifecontingencies`
 
@@ -26,14 +26,13 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 * [MortalityLaws](https://cran.r-project.org/web/packages/MortalityLaws/index.html)
 * [demography](https://cran.r-project.org/web/packages/demography/index.html)
 
-## **Crusos Online**
+## **Cursos Online**
 * [Curso Básico de Atuária Aplicada aos RPPS - TCE-RS (autoinstrucional e gratuito)](https://ead.tce.rs.gov.br/moodle/course/index.php?categoryid=1)
 
 ## **Canais no YouTube**
 * [Profa. Cristiane Corrêa - UFRN](https://www.youtube.com/channel/UCaRRm8ss8mt79teMKRUgJeg/featured)
 * [Educação Atuarial - Prof. Luis Carlos Santos Júnior](https://www.youtube.com/c/Educa%C3%A7%C3%A3oAtuarial/videos)
 * [Arte Atuarial](https://www.youtube.com/c/ArteAtuarial/featured)
-* [Portal Halley de Educação Atuarial](https://atuaria.github.io/portalhalley/index.html)
 
 <!--
 * [Liga de Ciências Atuariais](https://www.youtube.com/channel/UCHyg2Cesm4wpCDbZP9S3wlQ)
@@ -41,6 +40,7 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 -->
 
 ## **Outros Materiais**
+* [Portal Halley de Educação Atuarial](https://atuaria.github.io/portalhalley/index.html)
 * [Simulador SADEPREV](http://sadeprevonline.ufrn.br:3838/sadeprev/)
 * [JuliaActuary](https://juliaactuary.org/)
 * [Mauricio Rodriguez Abreu](https://rpubs.com/mrabreu22/)
