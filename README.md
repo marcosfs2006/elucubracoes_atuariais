@@ -44,4 +44,5 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 * [Simulador SADEPREV](http://sadeprevonline.ufrn.br:3838/sadeprev/)
 * [JuliaActuary](https://juliaactuary.org/)
 * [Mauricio Rodriguez Abreu](https://rpubs.com/mrabreu22/)
+* [Fluxograma da Projeção Atuarial - Gustavo Carrozino](https://vimeo.com/380302428/ee6308c54b)
 
