@@ -9,9 +9,10 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 * [LabDadosPrev("RPPS")](https://marcosfs2006.github.io/LabDadosPrevRPPS/) Conjunto de Colab Notebooks contendo tutoriais para auxiliar na análise de dados previdenciários dos RPPS
 * [Métodos de Financiamento Atuarial](https://colab.research.google.com/drive/1WZWnvOeVF6TusKDf9SiozeUgBfIxzpi2?usp=sharing)
 * Crítica da Base de Dados
-* Resumo Estatístico da Base de Dados
+* [Resumo Estatístico.ipynb](https://colab.research.google.com/drive/1v9pIbLNNxw_SY-4C0XXJmpKHXidzKgwb?usp=sharing)
 * Tábuas de Mortalidade e Funções Biométricass
 * Visão Geral do Pacote `lifecontingencies`
+* [Monitoramento do Encaminhamento do DRAA.ipynb](https://colab.research.google.com/drive/1xUJB_OaQOmG17hGkmN9zQ6-7AaXTccLw?usp=sharing)
 
 ## **Shiny Apps**
 
