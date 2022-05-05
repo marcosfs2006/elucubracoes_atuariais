@@ -13,6 +13,7 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 * Tábuas de Mortalidade e Funções Biométricass
 * Visão Geral do Pacote `lifecontingencies`
 * [Monitoramento do Encaminhamento do DRAA.ipynb](https://colab.research.google.com/drive/1xUJB_OaQOmG17hGkmN9zQ6-7AaXTccLw?usp=sharing)
+* [Análise da Razão de Maturidade dos RPPS](https://colab.research.google.com/drive/1gLxJSMWsfoZmM-HIU6kTiXoXJxSDTRxn?usp=sharing)
 
 ## **Shiny Apps**
 
