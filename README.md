@@ -29,6 +29,7 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 * [MortalityTables](https://cran.r-project.org/web/packages/MortalityTables/)
 * [MortalityLaws](https://cran.r-project.org/web/packages/MortalityLaws/index.html)
 * [demography](https://cran.r-project.org/web/packages/demography/index.html)
+* [LexisPlotR](https://github.com/ottlngr/LexisPlotR)
 
 ## **Cursos Online**
 
