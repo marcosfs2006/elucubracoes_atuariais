@@ -48,6 +48,7 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 
 ## **Outros Materiais**
 
+* [Livro: Premissas Atuariais em Planos Previdenciários: Uma visão atuarial-demográfica](https://drive.google.com/file/d/1mRsE_5X9ALEY62vkgsU5GziQHaY-HzKn/view?usp=sharing) disponibilizado com autorização da autora **Profa. Cristiane Silva Corrêa**
 * [Portal Halley de Educação Atuarial](https://atuaria.github.io/portalhalley/index.html)
 * [Simulador SADEPREV](http://sadeprevonline.ufrn.br:3838/sadeprev/)
 * [JuliaActuary](https://juliaactuary.org/)
