@@ -10,9 +10,9 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 * [Métodos de Financiamento Atuarial](https://colab.research.google.com/drive/1WZWnvOeVF6TusKDf9SiozeUgBfIxzpi2?usp=sharing)
 * Crítica da Base de Dados
 * [Resumo Estatístico.ipynb](https://colab.research.google.com/drive/1v9pIbLNNxw_SY-4C0XXJmpKHXidzKgwb?usp=sharing)
-* Tábuas de Mortalidade e Funções Biométricass
-* Visão Geral do Pacote `lifecontingencies`
+* [Tábua de Mortalidade e Funções Biométricas e Anuidades.ipynb](https://colab.research.google.com/drive/1lLxtvm8IL3Z5B6AncPSllMGK7ZcYd06C?usp=sharing)
 * [Monitoramento do Encaminhamento do DRAA.ipynb](https://colab.research.google.com/drive/1xUJB_OaQOmG17hGkmN9zQ6-7AaXTccLw?usp=sharing)
+* [Monitoramento do Encaminhamento do DRAA v2.ipynb](https://colab.research.google.com/drive/1yfv5yqlt4S1sTMUlfdd15w5lT9nyx9Yl?usp=sharing)
 * [Análise da Razão de Maturidade dos RPPS](https://colab.research.google.com/drive/1gLxJSMWsfoZmM-HIU6kTiXoXJxSDTRxn?usp=sharing)
 
 ## **Shiny Apps**
@@ -39,7 +39,10 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 
 * [Profa. Cristiane Corrêa - UFRN](https://www.youtube.com/channel/UCaRRm8ss8mt79teMKRUgJeg/featured)
 * [Educação Atuarial - Prof. Luis Carlos Santos Júnior](https://www.youtube.com/c/Educa%C3%A7%C3%A3oAtuarial/videos)
+
+<!--
 * [Arte Atuarial](https://www.youtube.com/c/ArteAtuarial/featured)
+-->
 
 <!--
 * [Liga de Ciências Atuariais](https://www.youtube.com/channel/UCHyg2Cesm4wpCDbZP9S3wlQ)
