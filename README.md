@@ -15,6 +15,9 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 * [Monitoramento do Encaminhamento do DRAA v2.ipynb](https://colab.research.google.com/drive/1yfv5yqlt4S1sTMUlfdd15w5lT9nyx9Yl?usp=sharing)
 * [Análise da Razão de Maturidade dos RPPS](https://colab.research.google.com/drive/1gLxJSMWsfoZmM-HIU6kTiXoXJxSDTRxn?usp=sharing)
 
+**NOTA;** Praticamente todos os notebooks estão ainda em desenvolvimento. Estou sempre acrescentando coisas e fazendo ajustes. Eu os publico ainda que incompletos porque acredito que as ideias básicas já estão definidas.
+
+
 ## **Shiny Apps**
 
 * [Análise de Fluxo Atuarial]( https://marcosfs2006.shinyapps.io/fluxo_atuarial/)
