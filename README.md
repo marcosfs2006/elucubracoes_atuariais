@@ -8,12 +8,17 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 
 * [LabDadosPrev("RPPS")](https://marcosfs2006.github.io/LabDadosPrevRPPS/) Conjunto de Colab Notebooks contendo tutoriais para auxiliar na análise de dados previdenciários dos RPPS
 * [Métodos de Financiamento Atuarial](https://colab.research.google.com/drive/1WZWnvOeVF6TusKDf9SiozeUgBfIxzpi2?usp=sharing)
-* Crítica da Base de Dados
 * [Resumo Estatístico.ipynb](https://colab.research.google.com/drive/1v9pIbLNNxw_SY-4C0XXJmpKHXidzKgwb?usp=sharing)
 * [Tábua de Mortalidade e Funções Biométricas e Anuidades.ipynb](https://colab.research.google.com/drive/1lLxtvm8IL3Z5B6AncPSllMGK7ZcYd06C?usp=sharing)
 * [Monitoramento do Encaminhamento do DRAA.ipynb](https://colab.research.google.com/drive/1xUJB_OaQOmG17hGkmN9zQ6-7AaXTccLw?usp=sharing)
 * [Monitoramento do Encaminhamento do DRAA v2.ipynb](https://colab.research.google.com/drive/1yfv5yqlt4S1sTMUlfdd15w5lT9nyx9Yl?usp=sharing)
 * [Razão de Maturidade.ipynb](https://colab.research.google.com/drive/1gLxJSMWsfoZmM-HIU6kTiXoXJxSDTRxn?usp=sharing)
+
+<!--
+* Crítica da Base de Dados
+-->
+
+
 
 **NOTA;** Praticamente todos os notebooks estão ainda em desenvolvimento. Estou sempre acrescentando coisas e fazendo ajustes. Eu os publico ainda que incompletos porque acredito que as ideias básicas já estão definidas.
 
