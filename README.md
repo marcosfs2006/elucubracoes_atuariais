@@ -13,6 +13,7 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 * [Monitoramento do Encaminhamento do DRAA.ipynb](https://colab.research.google.com/drive/1xUJB_OaQOmG17hGkmN9zQ6-7AaXTccLw?usp=sharing)
 * [Monitoramento do Encaminhamento do DRAA v2.ipynb](https://colab.research.google.com/drive/1yfv5yqlt4S1sTMUlfdd15w5lT9nyx9Yl?usp=sharing)
 * [Razão de Maturidade.ipynb](https://colab.research.google.com/drive/1gLxJSMWsfoZmM-HIU6kTiXoXJxSDTRxn?usp=sharing)
+* [Extração de Dados do DRAA via API CADPREV.ipynb](https://colab.research.google.com/drive/1sZD4-jFYn7M_Nlaps_SkXucQhANvlKrx?usp=sharing)
 
 <!--
 * Crítica da Base de Dados
@@ -20,7 +21,7 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 
 
 
-**NOTA;** Praticamente todos os notebooks estão ainda em desenvolvimento. Estou sempre acrescentando coisas e fazendo ajustes. Eu os publico ainda que incompletos porque acredito que as ideias básicas já estão definidas.
+**NOTA:** Praticamente todos os notebooks estão ainda em desenvolvimento. Estou sempre acrescentando coisas e fazendo ajustes. Eu os publico ainda que incompletos porque acredito que as ideias básicas já estão definidas.
 
 
 ## **Shiny Apps**
@@ -47,10 +48,8 @@ Repositório para armazenar dados e notebooks elaborados em R para a execução 
 
 * [Profa. Cristiane Corrêa - UFRN](https://www.youtube.com/channel/UCaRRm8ss8mt79teMKRUgJeg/featured)
 * [Educação Atuarial - Prof. Luis Carlos Santos Júnior](https://www.youtube.com/c/Educa%C3%A7%C3%A3oAtuarial/videos)
-
-<!--
 * [Arte Atuarial](https://www.youtube.com/c/ArteAtuarial/featured)
--->
+
 
 <!--
 * [Liga de Ciências Atuariais](https://www.youtube.com/channel/UCHyg2Cesm4wpCDbZP9S3wlQ)
