@@ -1,4 +1,4 @@
-# Elucubrações Atuariais
+# **Elucubrações Atuariais**
 
 Repositório para armazenar dados e notebooks elaborados em R para a execução de cálculos atuariais e coisas relacionadas.
 
