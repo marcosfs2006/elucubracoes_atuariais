@@ -1,10 +1,16 @@
 # **Elucubrações Atuariais**
 
-Repositório para armazenar dados e notebooks elaborados em R para a execução de cálculos atuariais e coisas relacionadas.
+Repositório para armazenar os dados utilizados na elaboração de notebooks cujo objetivo é servir como tutorial para a execução de cálculos atuariais e coisas correlatas utilizando o software R.
+
+Os notebooks serão elaborados usando o [**Google Colab**](https://marcusnunes.me/posts/r-e-google-colab/) em razão de não necessitar de instalação de qualquer _software_. Para usá-lo basta que se tenha acesso à internet, e uma conta no Google. 
+
+O usuário pode salvar o notebook em seu computador, fazer alterações no mesmo para ajustar às suas necessidades e pode rodar os comandos nele contidos. Esses aspectos o tornam uma ferramenta muito interessante para o desenvolvimento de tutoriais e "papéis de trabalho". 
+
+À seguir elencamos alguns notebooks nos quais estamos trabalhando bem como outros materiais e recursos que julgamos úteis para quem tem interesse na atuária aplicada aos Regimes Próprios de Previdência Social - RPPS.
 
 À medida que os notebooks forem sendo concluídos serão aqui disponibilizados.
 
-## **Colab Notebooks**
+## **Tutoriais**
 
 * [LabDadosPrev("RPPS")](https://marcosfs2006.github.io/LabDadosPrevRPPS/) Conjunto de Colab Notebooks contendo tutoriais para auxiliar na análise de dados previdenciários dos RPPS
 * [Métodos de Financiamento Atuarial.ipynb](https://colab.research.google.com/drive/1WZWnvOeVF6TusKDf9SiozeUgBfIxzpi2?usp=sharing)
