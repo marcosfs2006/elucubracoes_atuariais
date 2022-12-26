@@ -33,6 +33,7 @@ O usuário pode salvar o notebook em seu computador, fazer alterações no mesmo
 ## **Shiny Apps**
 
 * [Análise de Fluxo Atuarial]( https://marcosfs2006.shinyapps.io/fluxo_atuarial/)
+* [Painel do Laboratório de Risco Atuarial e Inovação - LAR da UNIFAL](https://cienciasatuariais.shinyapps.io/DRAA/)
 
 <br>
 
