@@ -71,4 +71,6 @@ O usuário pode salvar o notebook em seu computador, fazer alterações no mesmo
 * [JuliaActuary](https://juliaactuary.org/)
 * [Mauricio Rodriguez Abreu](https://rpubs.com/mrabreu22/)
 * [Fluxograma da Projeção Atuarial - Gustavo Carrozino](https://vimeo.com/380302428/ee6308c54b)
+* [Métodos Demográficos Uma Visão Desde os Países de Língua Portuguesa](https://openaccess.blucher.com.br/article-list/9786555500837-504/list#undefined)
+
 
