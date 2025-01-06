@@ -1,4 +1,4 @@
-# **Elucubrações Atuariais**
+# **Elucubrações Atuariais - Repositório de Dados**
 
 Repositório para armazenar os dados utilizados na elaboração de notebooks cujo objetivo é servir como tutorial para a execução de cálculos atuariais e coisas correlatas utilizando o software R.
 
