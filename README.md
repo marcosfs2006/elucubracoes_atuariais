@@ -1,17 +1,24 @@
 # **Elucubrações Atuariais**
 
-Elencamos a seguir alguns tutoriais que tem por objetivo mostrar como usar 
-o R para realizar calculos atuariais relacionados
-aos Regimes Próprios de Previdência Social - RPPS.
+Elencamos a seguir alguns "tutoriais" que tem por objetivo mostrar como usar 
+o R na implementação de cálculos que tenham relação com a 
+área previdenciária, visto que é o ramo atuarial com aplicações  
+mais diretas aos Regimes Próprios de Previdência Social - RPPS.
+
+Esses tutoriais são, de certa forma, o "produto"
+de estudos sobre as temáticas tratadas, servindo de
+referência quando (e se) a eles precisarmos voltar no futuro.
+
+Nossa intenção é, num futuro que esperamos seja próximo,
+publicar um blog que pretendemos chamar de "Elucubrações Atuariais" e
+que reúnirá esses "tutoriais" e outros que eventualmente venham a ser produzidos.
+Enquanto isso não acontece vamos ir publicando no RPubs os textos que
+irão compor o referido blog.
 
 À medida que outros tutoriais forem sendo concluídos
-serão aqui disponibilizados.
+serão também aqui disponibilizados.
 
-## **Tutoriais no RPubs**
-
-Nossa intenção é publicar um blog chamado "Elucubrações Atuariais" e
-enquanto isso não acontece vamos ir publicando no RPubs os textos que
-irão compor o referido blog.
+## **Tutoriais já disponíveis no RPubs**
 
 * [Tábuas de Mortalidade, Funções Biométricas e Anuidades](https://www.rpubs.com/marcosfs2006/intro-lifecontingencies)
 * [Múltiplos Decrementos](https://www.rpubs.com/marcosfs2006/multiplos-decrementos)
@@ -20,6 +27,10 @@ irão compor o referido blog.
 
 
 # **Outros Materiais**
+
+Além dos tutoriais acima elencamos, achamos que poderá
+ser útil disponibilizar 
+
 
 ## **Shiny Apps**
 
