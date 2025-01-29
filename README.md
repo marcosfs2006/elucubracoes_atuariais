@@ -24,13 +24,14 @@ serão também aqui disponibilizados.
 * [Múltiplos Decrementos](https://www.rpubs.com/marcosfs2006/multiplos-decrementos)
 * [Tábuas Mínimas](https://www.rpubs.com/marcosfs2006/tabuas-minimas)
 * [Sobrevida Média - SVM](https://www.rpubs.com/marcosfs2006/sobrevida-media)
+* [Simulando o Tempo de Vida Futuro](https://rpubs.com/marcosfs2006/simulando-tempo-vida-futuro)
 
 
 # **Outros Materiais**
 
-Além dos tutoriais acima elencamos, achamos que poderá
-ser útil disponibilizar 
-
+Além dos tutoriais acima, elencamos abaixo outros materiais
+relacionados à temática atuarial que achamos útil
+disponibilizar. 
 
 ## **Shiny Apps**
 
