@@ -1,22 +1,12 @@
 # **Elucubrações Atuariais**
 
-Elencamos a seguir alguns "tutoriais" que tem por objetivo mostrar como usar 
-o R na implementação de cálculos que tenham relação com a 
-área previdenciária, visto que é o ramo atuarial com aplicações  
-mais diretas aos Regimes Próprios de Previdência Social - RPPS.
+Elencamos a seguir alguns "tutoriais" que tem por objetivo mostrar como usar o R na implementação de cálculos que tenham relação com a área previdenciária, visto que é o ramo atuarial com aplicações mais diretas aos Regimes Próprios de Previdência Social - RPPS.
 
-Esses tutoriais são, de certa forma, o "produto"
-de estudos sobre as temáticas tratadas, servindo de
-referência quando (e se) a eles precisarmos voltar no futuro.
+Esses tutoriais são, de certa forma, o "produto" de estudos sobre as temáticas tratadas, servindo de referência quando (e se) a eles precisarmos voltar no futuro.
 
-Nossa intenção é, num futuro que esperamos seja próximo,
-publicar um blog que pretendemos chamar de "Elucubrações Atuariais" e
-que reúnirá esses "tutoriais" e outros que eventualmente venham a ser produzidos.
-Enquanto isso não acontece vamos ir publicando no RPubs os textos que
-irão compor o referido blog.
+Nossa intenção é, num futuro que esperamos seja próximo, publicar um _blog_ que pretendemos chamar de "Elucubrações Atuariais" e que reunirá esses "tutoriais" e outros que eventualmente venham a ser produzidos. Enquanto isso não acontece vamos ir publicando no RPubs os textos que irão compor o referido _blog_.
 
-À medida que outros tutoriais forem sendo concluídos
-serão também aqui disponibilizados.
+À medida que outros tutoriais forem sendo concluídos serão também aqui disponibilizados.
 
 ## **Tutoriais já disponíveis no RPubs**
 
@@ -25,7 +15,11 @@ serão também aqui disponibilizados.
 * [Tábuas Mínimas](https://www.rpubs.com/marcosfs2006/tabuas-minimas)
 * [Sobrevida Média - SVM](https://www.rpubs.com/marcosfs2006/sobrevida-media)
 * [Simulando o Tempo de Vida Futuro](https://rpubs.com/marcosfs2006/simulando-tempo-vida-futuro)
+* [Extração de Dados do SICONFI com R](https://rpubs.com/marcosfs2006/extracao-dados-api-siconfi)
 
+Mas outros estão à caminho!
+
+<br>
 
 # **Outros Materiais**
 
