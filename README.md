@@ -16,6 +16,7 @@ Nossa intenção é, num futuro que esperamos seja próximo, publicar um _blog_ 
 * [Sobrevida Média - SVM](https://www.rpubs.com/marcosfs2006/sobrevida-media)
 * [Simulando o Tempo de Vida Futuro](https://rpubs.com/marcosfs2006/simulando-tempo-vida-futuro)
 * [Extração de Dados do SICONFI com R](https://rpubs.com/marcosfs2006/extracao-dados-api-siconfi)
+* [Explorando a Matriz de Saldos Contábeis com R](https://rpubs.com/marcosfs2006/exploracao-msc-atuarial) - EM ELABORAÇÃO...
 
 Mas outros estão à caminho!
 
